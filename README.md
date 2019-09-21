@@ -1,4 +1,4 @@
 # logindemo
 
 
-a androis studo app as login demo
+a android studio app as login demo
